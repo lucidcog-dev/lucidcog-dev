@@ -18,4 +18,4 @@ We research, design, develop, and publish software that makes complex digital wo
 
 ## Connect
 
-[Website](https://lucidcog.com) · [GitHub organization](https://github.com/lucidcog) · [Contact](mailto:hello@lucidcog.com)
+[Website](https://lucidcog.com) · [GitHub organization](https://github.com/lucidcog) · [Contact](mailto:master@lucidcog.com)
