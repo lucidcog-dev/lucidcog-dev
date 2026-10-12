@@ -1,16 +1,21 @@
-## Hi there 👋
+# LucidCog Dev
 
-<!--
-**lucidcog-dev/lucidcog-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Clear thinking, made useful.**
 
-Here are some ideas to get you started:
+The development account for [LucidCog](https://github.com/lucidcog), an independent software publisher creating focused digital tools for people and teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What we're building
+
+We research, design, develop, and publish software that makes complex digital work easier to understand and act on. Our first software release is in development.
+
+## How we work
+
+| Principle | What it means |
+| --- | --- |
+| Clarity | Explain the work, the choices, and the limits. |
+| Utility | Add complexity only when it creates practical value. |
+| Responsibility | Build with privacy, reliability, and human control in mind. |
+
+## Connect
+
+[Website](https://lucidcog.com) · [GitHub organization](https://github.com/lucidcog) · [Contact](mailto:hello@lucidcog.com)
